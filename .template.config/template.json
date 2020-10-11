@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Lixquid",
+    "classification": [
+        "Config"
+    ],
+    "name": "Dotnet EditorConfig file",
+    "identity": "dotnet-editorconfig",
+    "shortName": "editorconfig"
+}
