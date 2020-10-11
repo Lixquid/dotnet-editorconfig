@@ -17,7 +17,7 @@ dotnet values) in the current directory.
 2. Install the template with `dotnet new --install`
 
    ```
-   $ dotnet new --install dotnet-editorconfig
+   $ dotnet new --install dotnet-editorconfig/template
    ```
 
 ### Usage
